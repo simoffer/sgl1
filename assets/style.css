@@ -11,7 +11,7 @@ body{
 }
 
 .hero{
-    width: 375px;
+    width: 350px;
     margin: 0 auto;
 }
 
@@ -38,7 +38,7 @@ body{
     background: #0793CA;
     color: #fff;
     margin-top: 10px;
-    width: 370px;
+    width: 345px;
     border-radius: 3px;
     text-align: center;
     text-decoration: none;
@@ -57,11 +57,12 @@ body{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 30px;
+    margin-left: 7px;
 }
 
 a.picture_link{
-    width: 180px;
-    height: 180px;
+    width: 160px;
+    height: 160px;
     display:block;
     background-size: cover;
     background-position: center;
@@ -89,7 +90,7 @@ a.picture_link{
 }
 
 .link_wrap a:nth-child(2){
-    width: 180px;
+    width: 160px;
     display: block;
     color: #0789BC;
     border: 1px solid #0789BC;
